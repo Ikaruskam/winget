@@ -1,0 +1,11 @@
+Id: Google.Chrome
+Name: Google Chrome
+Version: 117.0.5938.132
+Publisher: Google LLC
+AppMoniker: chrome
+License: Freeware
+LicenseUrl: https://www.google.com/chrome/terms/
+InstallerType: msi
+InstallerUrl: https://office.alpina.ru/sharing/Y1biZfhfD
+InstallerSha256: 1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
+MinimumOSVersion: 10.0.0.0
