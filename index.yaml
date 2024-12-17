@@ -1,0 +1,5 @@
+Sources:
+  - Name: Google.Chrome
+    Path: manifests/Google.Chrome/117.0.5938.132.yaml
+  - Name: 7zip.7zip
+    Path: manifests/7zip.7zip/23.00.yaml
